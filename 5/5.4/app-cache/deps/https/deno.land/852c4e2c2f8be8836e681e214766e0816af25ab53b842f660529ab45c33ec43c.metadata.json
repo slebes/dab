@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-cache": "Hit from cloudfront",
+    "via": "http/2 edgeproxy-h",
+    "etag": "\"f8db3337e67e0244c3d4ad9d157e8315\"",
+    "x-amz-cf-pop": "HEL51-P2",
+    "x-amz-cf-id": "re2ZAlKrpujx_WgRnc4O0V-CIGh0QZILf1kyykosxKHC2rd8tWiWsw==",
+    "content-length": "1887",
+    "age": "12417433",
+    "vary": "Accept-Encoding, Origin",
+    "last-modified": "Fri, 25 Mar 2022 13:32:50 GMT",
+    "x-amz-version-id": "NjACdX6coB3xY63PW8WYAEKmB9qysqul",
+    "server": "deno/gcp-europe-north1",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Fri, 02 Sep 2022 01:04:58 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-replication-status": "FAILED"
+  },
+  "url": "https://deno.land/std@0.132.0/node/internal_binding/handle_wrap.ts",
+  "now": {
+    "secs_since_epoch": 1674498130,
+    "nanos_since_epoch": 342836010
+  }
+}
